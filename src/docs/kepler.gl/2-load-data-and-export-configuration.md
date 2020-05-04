@@ -22,7 +22,7 @@ import nycTrips from './data/nyc-trips.csv';
 ```
 
 In order to process the raw data we are going to use Kepler.gl APIs and in particular the following:
-- Processors: provides ability to convert raw data (csv, json) into kepler.gl data form which has rows anf fields properties
+- Processors: provides ability to convert raw data (csv, json) into kepler.gl data form which has rows and fields properties
 - Actions: provides an easy interface to programmatically interact with kepler.gl instance
 
 Import Processors and Actions
